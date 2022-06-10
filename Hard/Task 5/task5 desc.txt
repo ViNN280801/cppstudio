@@ -1,0 +1,7 @@
+You need to create a pet store class. The class must have the following fields: animal (e.g. wolf, penguin, dog ), gender, name, price, quantity. Include in the class the necessary minimum of methods that ensure the full functioning of objects of the specified class:
+
+    1. Constructors (by default, with parameters, copying);
+    2. Destructor;
+    3. Redefine the operations possible for the class, consider the order of their execution;
+    4. Add the necessary methods.
+    5. Provide the ability to enter data from the keyboard or from a file (using the constructor or operation ").
