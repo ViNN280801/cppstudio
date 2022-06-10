@@ -1,0 +1,1 @@
+In a text file containing the program text in C, check the correspondence of the opening and closing curly brackets { and }. The result of the check should be displayed on the screen and recorded as a phrase in a text file. The result of the program (output) should be placed in a separate text file (for example, "out. txt " ), duplicated on the screen.
