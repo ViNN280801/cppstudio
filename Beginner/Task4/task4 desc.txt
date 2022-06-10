@@ -1,0 +1,1 @@
+The program should translate the number entered from the keyboard in meters into kilometers.
