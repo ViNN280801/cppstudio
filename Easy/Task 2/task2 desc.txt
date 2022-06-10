@@ -1,0 +1,1 @@
+Find the algebraic sum for the expression: 1^k + 2^k + 3^k + ... + N^k. H and the degree of K is entered by the user.
