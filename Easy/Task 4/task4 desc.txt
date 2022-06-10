@@ -1,0 +1,1 @@
+Write a program in which the angle alpha at which the body is thrown relative to the horizon is determined by the known initial velocity V and the flight time of the body T (use the ratio a = arcsin(gT/ 2V)). The output of the program that you should get is shown below:
