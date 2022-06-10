@@ -1,0 +1,1 @@
+The essence of the task: by entering the number of the day of the week, output its name using the multiple choice operator. The numbering of the days of the week starts from 1 – Monday, 2 — Tuesday, etc.
