@@ -1,0 +1,1 @@
+Using a single cout output statement, the program must print a right triangle of plus sign characters +
