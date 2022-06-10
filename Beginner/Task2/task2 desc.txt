@@ -1,0 +1,1 @@
+Program the following expression: (a + b — f / a) + f * a * a — (a + b) The numbers a, b, f are entered from the keyboard. Organize the user interface in such a way that it is clear in which order the numbers should be entered.
