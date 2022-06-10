@@ -1,0 +1,1 @@
+Calculate the value of the expression using the formula (all variables take valid values): (1-tg x)^(ctg x)+ cos(x-y).
