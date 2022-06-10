@@ -1,0 +1,1 @@
+Find Y if Y = X1 + X2 + ... + Xn, X = Z^3 - B + A^2 / tg^2?. The number X is entered by the program user. For each X value of Z, B, A, ? different (programs are entered by the user).
