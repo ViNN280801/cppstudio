@@ -1,0 +1,6 @@
+Develop a program for plotting the function y = 2sin xe^4/5. Read x functions from the file. 
+Plot the function in the range from -50 to 50. The result of the program will be 
+considered two arrays that contain intermediate values of x and y for the 
+interval [-50; 50]. Plot a graph based on these values.
+
+Gnuplot: http://www.gnuplot.info/ This programm was written on version 5.4
