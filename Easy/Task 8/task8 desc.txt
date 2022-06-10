@@ -1,0 +1,4 @@
+Calculate, without using the pow function, the values of the function z(x,m) = x^m [sin(xm)]^m, for argument values:
+
+x from -1.1 to 0.3 in 0.2 increments;
+m from 1 to 5 in 1 increments.
