@@ -1,0 +1,9 @@
+Write a program that asks for the student's first name, last name, patronymic and group number and outputs the entered data in the following form:
+
+/* ********************************
+* Laboratory work No. 1 *
+* Completed(a): art. gr. ZI-123 *
+* Ivanov Andrey Petrovich *
+******************************** */
+
+It is necessary that the program itself determines the desired length of the frame. The very length of the frame depends on the length of the largest row inside the frame. Using for loops, you can easily align the sides of the frame.
