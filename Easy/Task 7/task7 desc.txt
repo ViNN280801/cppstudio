@@ -1,0 +1,1 @@
+Write a program that allows the user to enter into the console three coordinates of the vector x, y, and z, with the base at the origin. Calculate the length of this vector and output it back to the console.
