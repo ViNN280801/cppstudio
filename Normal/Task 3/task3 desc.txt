@@ -1,0 +1,7 @@
+It is necessary to calculate the product of the matrix by the vector. In the resulting vector, find the maximum element. it is necessary to solve this problem in three ways:
+
+    using static arrays
+    use only dynamic arrays with explicit pointer dereference
+    use only dynamic arrays, address array elements using indexes.
+
+That is, you should have three separate sources — three programs.
