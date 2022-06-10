@@ -1,0 +1,1 @@
+Create an algorithm for increasing all three variables entered from the keyboard by 5, if there are at least two equal ones among them. Otherwise, give the answer no equals.
