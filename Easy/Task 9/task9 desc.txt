@@ -1,0 +1,1 @@
+A one-dimensional array is given, the length of the array is set by the user. Calculate the sum of the squares of those numbers whose modulus exceeds the value of 2.5.
