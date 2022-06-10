@@ -1,0 +1,1 @@
+Create a program that requires you to enter two numbers. If the first number is greater than the second, then the program prints the word more. If the first number is less than the second, the program prints the word less. And if the numbers are equal, the program will print the message These numbers are equal.
