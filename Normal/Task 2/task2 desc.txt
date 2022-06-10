@@ -1,0 +1,2 @@
+Using the exponents of the function, calculate the continued fraction. The number of fraction elements must be set using the keyboard.
+1+1/(1+1/(1+1/(1+1/….)))
