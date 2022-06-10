@@ -1,0 +1,17 @@
+[user@repository dir]$ valgrind --leak-check=full --log-file="log" ./main
+
+==24374== Memcheck, a memory error detector
+==24374== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==24374== Using Valgrind-3.19.0 and LibVEX; rerun with -h for copyright info
+==24374== Command: ./main
+==24374== Parent PID: 3292
+==24374== 
+==24374== 
+==24374== HEAP SUMMARY:
+==24374==     in use at exit: 0 bytes in 0 blocks
+==24374==   total heap usage: 1,016 allocs, 1,016 frees, 159,925 bytes allocated
+==24374== 
+==24374== All heap blocks were freed -- no leaks are possible
+==24374== 
+==24374== For lists of detected and suppressed errors, rerun with: -s
+==24374== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
