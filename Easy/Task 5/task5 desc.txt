@@ -1,0 +1,1 @@
+Raise the number entered from the keyboard to the power of n, the degree is also entered from the keyboard. Exponentiation is organized using cycles.
