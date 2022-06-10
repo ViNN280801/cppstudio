@@ -1,0 +1,4 @@
+A binary tree is given, the vertex of which contains a string and two pointers to descendant elements. 
+At least two functions must be developed in the program. The first function should 
+determine the number of branches of the nth level for this tree. 
+The second function displays the tree elements on the screen.
