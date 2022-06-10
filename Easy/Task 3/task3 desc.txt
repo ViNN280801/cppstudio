@@ -1,0 +1,1 @@
+Organize the input of a two-digit natural number from the keyboard. The program must determine the smallest and largest digits that are part of a given natural number.
