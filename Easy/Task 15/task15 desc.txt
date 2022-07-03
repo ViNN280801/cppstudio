@@ -1,0 +1,1 @@
+Write a program that should determine whether a brick will pass through the hole. The dimensions of the hole (length and height) are entered by the user. The same applies to the dimensions of the brick, the user enters the values of the length, width and height of the brick into the program.
