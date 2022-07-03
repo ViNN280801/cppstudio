@@ -1,0 +1,1 @@
+Determine the number of the quarter of the plane in which the point with X and Y coordinates is located , and X Y != 0. Enter coordinates from the keyboard.
