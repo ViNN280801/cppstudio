@@ -1,0 +1,1 @@
+A text of arbitrary length ending with the symbol '#' is given. Determine the number of lines in the text, each line ends with a newline character '\n'.
