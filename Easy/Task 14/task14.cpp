@@ -19,7 +19,7 @@ size_t count_of_paragraphs(const std::string &str)
     }
 
     // Returning count of parahraphs
-    return counter + 1UL;
+    return counter;
 }
 
 int main()
@@ -28,7 +28,7 @@ int main()
     std::string text;
 
     std::cout << "Enter text (Enter # to terminate input): " << std::endl;
-    
+
     // Getting lines while until we met '#' symbol
     getline(std::cin, text, '#');
 
