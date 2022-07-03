@@ -1,0 +1,1 @@
+Create an algorithm that determines whether there are identical numbers among the digits of the entered three—digit number. The number is entered from the keyboard.
