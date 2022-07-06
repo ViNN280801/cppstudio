@@ -1,0 +1,1 @@
+Create a program that will print a rhombus with one of the icons (* or + or #) To organize the selection of icons with the switch operator.
