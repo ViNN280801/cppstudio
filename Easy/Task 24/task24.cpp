@@ -1,6 +1,6 @@
 // Task: Calculate the sum of 1/sin1+1/(sin1+sin2)+...1/(sin1+...+sinn), where n is a given natural number.
 
-// Compile:
+// Compile: gcc task24.cpp -o main -lstdc++ -lm -Wall -Wpedantic -Wextra
 
 #include <iostream>
 #include <string>
