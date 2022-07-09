@@ -57,14 +57,13 @@ double sum_of_func(const int &__n)
 
 int main()
 {
-
     // User's input string
     std::string input{};
 
     // Using 'while' loop and string input to avoid errors
     while (true)
     {
-        std::cout << "Enter size of array: ";
+        std::cout << "Enter n: ";
         std::cin >> input;
 
         // If 'matrix_size' variable is numeric -> break loop
