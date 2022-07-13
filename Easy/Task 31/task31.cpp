@@ -2,7 +2,7 @@
 // sum of numbers completely divisible by 5. Set the cycle from 0 to the
 // number entered from the keyboard.
 
-// Compile:
+// Compile: gcc task31.cpp -o main -lstdc++ -Wall -Wpedantic -Wextra
 
 #include <iostream>
 
