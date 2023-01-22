@@ -1,8 +1,6 @@
 #include "BinaryTree.hpp"
 
-#define __GENERATE__ALL__SYMBOLS__
-
-int main(int argc, char *argv[])
+int main()
 {
     BinaryTree rndm_tree;
     rndm_tree.fillRandomData(10UL);
@@ -19,7 +17,7 @@ int main(int argc, char *argv[])
     BinaryTree bin_tree;
     cout << "Customly created binary tree: " << endl;
 
-#ifdef __GENERATE__ALL__SYMBOLS__
+#ifdef GENERATE_ALL_SYMBOLS
     bin_tree.addNode("U");
     bin_tree.addNode("uU");
     bin_tree.addNode("Z");
@@ -31,7 +29,7 @@ int main(int argc, char *argv[])
     bin_tree.addNode("i");
 #endif
 
-#ifdef __GENERATE__ONLY__DIGITS__
+#ifdef GENERATE_ONLY_DIGITS
     bin_tree.addNode("9");
     bin_tree.addNode("1");
     bin_tree.addNode("46");
